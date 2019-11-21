@@ -16,13 +16,13 @@ Focus on what they are, have relations between `Currnet`, `Voltage`, `Resistance
 
 ##### Table of Contents
 
-[Ohm's Law](#Ohm's Law)
-[Earth leakage breaker](#Leakage)
-[Electric Energy](#Electrical Power)
+[Ohm's Law](#Ohm's_Law)\
+[Earth leakage breaker](#Leakage)\
+[Electric Energy](#Electrical_Power)\
 [Serial-Parallel](#)
 
 
-### Ohm's Law
+### Ohm's_Law
 
 BC. 600, From the story that **Thales** found electricity by rubbing cloth on `elektron`, a kind of gem (now we called Amber), the electricity comes from the Greek word.
 
@@ -30,5 +30,5 @@ In 1827 Germany, about 2400 years later, **Georg Ohm** found the law that can ex
 
 ### Leakage
 
-### Electrical Power
+### Electrical_Power
 
