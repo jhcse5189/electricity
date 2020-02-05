@@ -18,8 +18,11 @@ Focus on what they are, have relations between `Currnet`, `Voltage`, `Resistance
 
 [Ohm's Law](#Ohm's_Law)\
 [Earth leakage breaker](#Leakage)\
-[Electric Energy](#Electrical_Power)\
-[Serial-Parallel](#)
+[Watt hour](#Electrical_Energe)\
+[Power-Strip](#Serial-Parallel)\
+[Power adapter](#AC-DC)\
+\
+[Others](#Others)
 
 
 ### Ohm's_Law
@@ -28,7 +31,14 @@ BC. 600, From the story that **Thales** found electricity by rubbing cloth on `e
 
 In 1827 Germany, about 2400 years later, **Georg Ohm** found the law that can express the relations of them mathematically,  `Current`(Intensity of electric current), `Voltage`(V), and `Resistance`(R).
 
+
+
 ### Leakage
 
-### Electrical_Power
+### Electrical_Energe
 
+### Serial-Parallel
+
+### AC-DC
+
+### Others
